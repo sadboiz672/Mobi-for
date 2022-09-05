@@ -53,6 +53,9 @@ Cuối cùng tôi chỉ cần lấy thời gian Modified - 7 ra thời gian  c�
 
  **4. What time did the phone charge to 100% after the last reset? (hh:mm:ss)**
 - Câu hỏi này khá là khó và tôi đã tìm tới file chứa các thông tin của máy được lưu lại folder "Live data" nhưng một cách non nớt và tôi không tìm được key word đúng trong quá trình này. Key word cần lưu ý đó là "status" - bởi vì nó đang hỏi trạng thái pin, tôi đã thử tìm "battery.txt" hoặc "batterystats.txt". Theo gọi ý tôi đã tìm thông tin hiển thị "status=full"
+- 
 ![image](https://user-images.githubusercontent.com/42565778/188420313-baae2cd4-adbc-4fb7-b3e6-c1e57c2d046a.png)
+
 - thời gian được lưu reset là: "RESET:TIME: 2021-05-21-13-12-19" có nghĩa là khoảng 13h12m19s cho tới khi thiết bị báo đầy là khoảng "5m01s459ms (3) 100 status=full charge=2665", và khoảng sau 5m1s thì thiết bị này được sạc đầy(tôi chưa hiểu cơ chế reset time ở đây để làm gì @@!!). Tổng thời gian sạc tính từ lúc reset là 13:12:19 + 0:05:01 = 13:17:20
+
 _submit: 13:17:..._
