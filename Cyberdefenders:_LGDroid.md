@@ -8,7 +8,7 @@ Tools:
 
 Detail chall: [Here](https://cyberdefenders.org/blueteam-ctf-challenges/69)
 
- Tôi đã vượt qua thử thách này khoảng 60%, bởi vì một số câu hỏi khá là lạ với một người mới tìm hiểu Forensic Mobile. Toàn bộ chall làn này có 8 câu hỏi và vượt qua thử thách khi bạn hoàn thành tất cả các câu hỏi. Sau đây là cách mà tôi đã vượt qua thử thách( Những chia sẻ này là của cá nhân tôi, các bạn có thể tham khảo và góp ý)
+ Tôi đã vượt qua thử thách này khoảng 60%, bởi vì một số câu hỏi khá là lạ với một người mới tìm hiểu Forensic Mobile. Toàn bộ chall này có 8 câu hỏi và vượt qua thử thách khi bạn hoàn thành tất cả các câu hỏi. Sau đây là cách mà tôi đã vượt qua thử thách(Những chia sẻ này là của cá nhân tôi, các bạn có thể tham khảo và góp ý)
 
 - File nén sau khi tải về và tôi đã unzip ra thành các folder để dễ dàng trong quá trình điều tra.
 
@@ -106,7 +106,7 @@ Ban đầu thì mình đọc câu hỏi ở cuối là hỏi thời gian truy c�
 
 ![image](https://user-images.githubusercontent.com/42565778/188573872-c3c30324-19e7-48e2-ac83-6b633634fbbd.png)
 
-- Trong hint dẫn chúng ta đến trang web [hướng dẫn](https://ourcodeworld.com/articles/read/991/how-to-calculate-the-structural-similarity-index-ssim-between-two-images-with-python), nhưng để toi cũng khá lười và đã tìm một tool onl hỗ trợ điều này, và có thể nó cũng cho ra kết quả chính xác như nhau :)) nhưng nếu bạn là người yêu thích stogography thì tôi khuyên bạn nên đọc và install theo hướng dẫn để biết kỹ thuật tính toán dựa vào đâu.
+- Trong hint dẫn chúng ta đến trang web [hướng dẫn](https://ourcodeworld.com/articles/read/991/how-to-calculate-the-structural-similarity-index-ssim-between-two-images-with-python), nhưng để toi cũng khá lười và đã tìm một tool onl hỗ trợ điều này, và có thể nó cũng cho ra kết quả chính xác như nhau :)) nhưng nếu bạn là người yêu thích steganography thì tôi khuyên bạn nên đọc và install theo hướng dẫn để biết kỹ thuật tính toán dựa vào đâu.
 
 
 ![image](https://user-images.githubusercontent.com/42565778/188574803-6d08866a-ee93-4bd8-b3e6-031272683712.png)
