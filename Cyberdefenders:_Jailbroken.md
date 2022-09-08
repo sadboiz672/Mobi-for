@@ -104,7 +104,19 @@ Tool(Khuyến nghị sử dụng theo cá nhân mình):
 
 
 ##**15. If you found me, what should I buy?**
+- Câu hỏi này khá là khó hiểu và tôi cần phải dùng hint để thực hiện thử thách, nhưng có vẻ hint cũng không giúp ích gì cho tôi khi mà tôi loay hoay tìm thông tin được lưu trong Note, thông tin được lưu trong lập lịch... và phải dùng hints tiếp theo...
 
+ ![image](https://user-images.githubusercontent.com/42565778/189104541-ff828920-2e86-4670-a322-26639d2cf8a0.png)
+
+- Và nó là note thay vì notes :)) wtf một sự bất cản của chính bản thân tôi cho nên đã bị trừ điểm vô ích haha :))) Câu chuyện về sự bất cẩn cũng không hề dừng lại trong khi có quá nhiều bảng trong db và tôi không chịu lướt cho hết thông tin các bảng :)) một cách vô ích và mất thời gian phải cẩn thận check lại từng bảng một và không để xót thông tin nào.
+
+![image](https://user-images.githubusercontent.com/42565778/189105198-5012bc22-033e-47b9-9a1d-edbcb0dbb1e3.png)
+
+- Nhưng lại có điều đặc biệt đây là dòng note không hề hoàn chỉnh và tôi cần phải gg xem nó là gì và dự đoán phần còn lại của flag.... theo như dự đoán của tôi từ còn thiếu cần phải điền là: 
+
+![image](https://user-images.githubusercontent.com/42565778/189105479-67047aef-b0ab-4d2b-9351-b4517512aa65.png)
+
+`submit: Crash......`
 
 ##**16. There was an SMS app on this device's dock. Provide the name in bundle format: com.provider.appname**
 
@@ -116,3 +128,8 @@ Tool(Khuyến nghị sử dụng theo cá nhân mình):
 
 ##**17. A reminder was made to get something, what was it?**
 
+- Mình nghĩ rằng các thông tin sẽ được Tim lưu trong note để ông ấy không quên, và chúng ta sẽ check bảng item để xem có thông tin gì. Điều này đã giúp tôi phát hiện đồ mà ông ấy cần mua là sữa :))
+- 
+![image](https://user-images.githubusercontent.com/42565778/189104079-f174568f-eb95-48b4-a330-f4399efe8239.png)
+
+`submit: Mi...`
