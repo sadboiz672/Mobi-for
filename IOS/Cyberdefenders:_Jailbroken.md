@@ -142,12 +142,21 @@ và kết quả theo đáp án là: `1586976031.21529`
 
 ##**11. How many applications were installed from the app store?**
 
+- Dựa vào kết quả từ db và mình đếm các uwsgn dụng đã được cài trên máy, theo mình sẽ bao gồm 2-3 ứng dụng trong đó có 2 ứng dụng là game và 1 ứng dụng...
 
 ![image](https://user-images.githubusercontent.com/42565778/189565663-43783b15-d8fb-4e81-97cf-a68f8b79be13.png)
 
 ##**12. How many save states were made for the emulator game that was most recently obtained?**
 
+Theo như câu hỏi trên thì mình đã tìm đc 2 cái game được lưu trên máy. Và chả có gì bất ngờ khi kết quả là 1 hoặc 2 cả. Chính vì thế để xác thực hơn mình tìm đến folder chứa gaem đc tải để xem game tải từ web hay appstore và kiểu game như nào.
 
+![image](https://user-images.githubusercontent.com/42565778/189598674-ec7f03e9-2666-46f6-be79-2907346a1134.png)
+
+- Tìm kiếm trên gg nhé.
+
+![image](https://user-images.githubusercontent.com/42565778/189598886-4d26f22a-8a51-4cf3-85cb-8fc4bdd3777d.png)
+
+`_submit: 1_`
 
 ##**13. What language is the user trying to learn?**
 
